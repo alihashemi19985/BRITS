@@ -1,4 +1,4 @@
-# Description and staus
+# Description and staus 
 The source codes of RITS-I, RITS, BRITS-I, BRITS for health-care data imputation/classification
 new line 
 To run the code: 
