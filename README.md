@@ -8,7 +8,7 @@ python main.py --epochs 1000 --batch_size 32 --model brist
 # Data Format
 In json folder, we provide the sample data (400 patients).
 The data format is as follows:
-
+    
 * Each line in json/json is a string represents a python dict
 * The structure of each dict is
     * forward
